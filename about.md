@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a business analyst working in Memphis with a big interest in data science and all that subject entails.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Data Science - The University of Washington
+Computer Science - The University of Tennessee
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zwfisher91@gmail.com](mailto:zwfisher91@gmail.com)
